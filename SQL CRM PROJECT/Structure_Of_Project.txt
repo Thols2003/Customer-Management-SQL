@@ -1,0 +1,6 @@
+crm-system-sql/
+├── schema.sql
+├── data.sql
+├── queries.sql
+├── views.sql
+└── README.md
